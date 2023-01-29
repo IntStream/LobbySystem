@@ -1,0 +1,9 @@
+name: LobbySystem
+version: 1.0
+api-version: 1.13
+main: de.stormmyyy.lobbysystem.LobbySystem
+
+commands:
+
+  build:
+  location:

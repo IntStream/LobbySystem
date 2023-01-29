@@ -1,0 +1,14 @@
+de\stormmyyy\lobbysystem\command\BuildCommand.class
+de\stormmyyy\lobbysystem\util\DifferentClass$LocationManager.class
+de\stormmyyy\lobbysystem\command\LocationCommand.class
+de\stormmyyy\lobbysystem\util\DifferentClass$ProtectionManager.class
+de\stormmyyy\lobbysystem\util\DifferentClass$PlayerManager.class
+de\stormmyyy\lobbysystem\util\ScoreboardBuilder.class
+de\stormmyyy\lobbysystem\util\DifferentClass$Initialization.class
+de\stormmyyy\lobbysystem\LobbySystem.class
+de\stormmyyy\lobbysystem\listener\ClickListener.class
+de\stormmyyy\lobbysystem\util\ItemBuilder.class
+de\stormmyyy\lobbysystem\listener\InteractListener.class
+de\stormmyyy\lobbysystem\listener\HotbarListener.class
+de\stormmyyy\lobbysystem\util\DifferentClass.class
+de\stormmyyy\lobbysystem\util\InventoryBuilder.class
